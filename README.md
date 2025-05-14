@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 
 <div style="max-width: 800px; margin: auto; font-family: 'Segoe UI', sans-serif; color: #282d33;">
 
-  <!-- My Introduction -->
-  <h2 style="border-bottom: 1px solid #d8dee4; padding-bottom: 5px;">📌 My Introduction</h2>
-  <ul style="font-weight: 500; font-size: 16px; line-height: 1.6;">
-    <li>저는 새로운 것을 배우는 것을 좋아합니다.</li>
-    <li>저는 계속 성장하는 개발자입니다.</li>
-  </ul>
-
   <!-- Tech Stack -->
   <h2 style="border-bottom: 1px solid #d8dee4; padding-bottom: 5px;">🛠️ Tech Stacks</h2>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
