@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2045,100:478bff&height=180&text=Hi%20I'M%20SeonMi%20👋&fontColor=6babff&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2045,100:478bff&height=180&text=Hi%20I'M%20SeonMi%20&fontColor=6babff&fontSize=60" />
 </div>
 
 <div style="max-width: 800px; margin: auto; font-family: 'Segoe UI', sans-serif; color: #282d33;">
