@@ -27,7 +27,7 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🖥️ Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.instagram.com/__nusim/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/__nusim/"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
