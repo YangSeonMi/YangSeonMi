@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ⭐︎ Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=YangSeonMi&bg_color=60,f5f7fa,c3cfe2&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✴︎ Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=YangSeonMi&bg_color=60,f5f7fa,c3cfe2&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YangSeonMi&layout=compact&bg_color=60,f5f7fa,c3cfe2&title_color=000000&text_color=000000"
            /> </div> 
     </div>
